@@ -3,7 +3,7 @@
 🚀 **A beautifully designed coffee shop website built with JavaScript, HTML, and CSS.**  
 Showcasing an elegant UI with a seamless user experience, featuring a modern and responsive design.  
 
-![Coffee Shop Banner](https://via.placeholder.com/1200x600)  
+## Live on : https://mdajharulislam.github.io/coffeeshop-website/
 
 ## 🌟 Features  
 ✅ Stunning UI/UX with a smooth user experience  
