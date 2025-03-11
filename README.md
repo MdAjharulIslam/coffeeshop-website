@@ -19,7 +19,7 @@ Showcasing an elegant UI with a seamless user experience, featuring a modern and
 - **Frontend:** HTML, CSS (Tailwind), JavaScript  
 - **Animations:** GSAP, AOS (Animate on Scroll)  
 - **Forms:** EmailJS (for contact form submissions)  
-- **Map:** Google Maps API  
+- **Map:** Google Maps api 
 
   
 
