@@ -16,7 +16,7 @@ Showcasing an elegant UI with a seamless user experience, featuring a modern and
 ✅ Google Maps integration for store locations 🗺️  
 
 ## 🎨 Tech Stack  
-- **Frontend:** HTML, CSS (Tailwind), JavaScript  
+- **Frontend:** HTML, CSS, JavaScript  
 - **Animations:** GSAP, AOS (Animate on Scroll)  
 - **Forms:** EmailJS (for contact form submissions)  
 - **Map:** Google Maps api 
