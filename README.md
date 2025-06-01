@@ -6,7 +6,7 @@ Showcasing an elegant UI with a seamless user experience, featuring a modern and
 ## Live on : https://mdajharulislam.github.io/coffeeshop-website/
 
 ## 🌟 Features  
-✅ Stunning UI/UX with a smooth user experience  
+✅ Stunning UI/UX with a smooth user experience 
 ✅ Fully responsive design for all devices 📱💻  
 ✅ Interactive menu with pricing & images 🍩☕  
 ✅ Online ordering & reservation system 📅  
